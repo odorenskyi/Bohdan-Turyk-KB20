@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1627559052 source:c:\users\user\desktop\¡Ã“œ\git\git\bohdan-turyk-kb20\lab09\prg\bmtp9lib\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<string>
+	"lib9.h"
+	<bitset>
+	<climits>
+	<sstream>
+
+1627472410 source:c:\users\user\desktop\¡Ã“œ\git\git\bohdan-turyk-kb20\lab08\prj\bmtp8.2lib\bmtp82lib1\main.cpp
+	<iostream>
+	<math.h>
+	"lib82.h"
+
+1627472210 c:\users\user\desktop\¡Ã“œ\git\git\bohdan-turyk-kb20\lab08\prj\bmtp8.2lib\bmtp82lib1\lib82.h
+
+1619600909 c:\users\user\desktop\¡Ã“œ\git\git\bohdan-turyk-kb20\lab09\prg\bmtp9lib\lib9.h
+

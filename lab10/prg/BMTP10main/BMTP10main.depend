@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1627476885 source:c:\users\user\desktop\¡Ã“œ\git\git\bohdan-turyk-kb20\lab10\prg\bmtp10main\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<locale>
+	<windows.h>
+	<regex>
+	<time.h>
+	"lib82.h"
+	<bitset>
+
